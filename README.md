@@ -23,4 +23,4 @@ The repository includes:
 
 ## Purpose
 
-This project helps explore how conditional GANs can be used for supervised image-to-image translation tasks. It highlights the potential of generative models in computer vision for real-world applications such as data augmentation, artistic rendering, and scene transformation.# PRODIGY_GA_04
+This project helps explore how conditional GANs can be used for supervised image-to-image translation tasks. It highlights the potential of generative models in computer vision for real-world applications such as data augmentation, artistic rendering, and scene transformation.
